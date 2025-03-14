@@ -8,6 +8,8 @@
 <h2>Sobre o Repositório:</h2>
 <a>Repositório com documentação para permitir um hud de testes para estudar seguindo o fluxo de contéudo do TCC.</a>
 <h3><strong>Repositório atualizado:</strong>https://github.com/GarmsOps/garms-repositorio.git</h3>
+<h3><strong>Documentação do TCC no Repositório Institucional do Conhecimento RIC-CPS</strong>https://ric.cps.sp.gov.br/handle/123456789/29422</h3>
+
 
 <br>
 <strong>Colaboradores:</strong><br>
